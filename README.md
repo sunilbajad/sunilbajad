@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunilbajad
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
